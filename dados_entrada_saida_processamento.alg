@@ -1,22 +1,24 @@
 algoritmo "semnome"
-// Função :
+// FunÃ§Ã£o :
 // Autor :
 // Data : 25/04/2022
-// Seção de Declarações
+// SeÃ§Ã£o de DeclaraÃ§Ãµes
 var
 valor:real
 qtde:real
 vt:real
 inicio
-// Seção de Comandos
-escreval("Digite o valor da peça: ")
+
+// Dados de entrada
+escreval("Digite o valor da peÃ§a: ")
 leia(valor)
-escreval("Digite a quantidade de peças: ")
+escreval("Digite a quantidade de peÃ§as: ")
 leia(qtde)
 
-//processamento
+//Processamento
 vt<-qtde*valor
-//Dados de Saída
-escreval("O valor total é: ",vt)
+
+//Dados de SaÃ­da
+escreval("O valor total Ã©: ",vt)
 
 fimalgoritmo
