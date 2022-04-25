@@ -1,0 +1,11 @@
+Teste De Mesa:
+qtde_minima  qtde_maxima  estoque_medio
+20           100          60
+15           200          107,5
+
+Algoritmo:
+   Entre com o valor para "qtde_minima"
+   Entre com o valor para "qtde_maxima"
+   Faça "estoque_medio= (qtde_minima+qtde_maxima)/2"
+   Mostre "estoque_medio"
+FimAlgoritmo
