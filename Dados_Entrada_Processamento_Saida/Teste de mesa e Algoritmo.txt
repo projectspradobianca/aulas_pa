@@ -1,0 +1,11 @@
+Teste De Mesa:
+valor  qtde  vt
+2      10    20
+2,5    5     12,5
+
+Algoritmo:
+   Digite o valor da peça e armazene em "valor"
+   Digite a quantidade de peças e armazene em "qtde"
+   Faça "vt= qtde*valor"
+   Mostre "vt"
+FimAlgoritmo
