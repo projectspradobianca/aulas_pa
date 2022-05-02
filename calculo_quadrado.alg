@@ -1,8 +1,8 @@
 algoritmo "semnome"
-// Função :
+// FunÃ§Ã£o :
 // Autor :
 // Data : 02/05/2022
-// Seção de Declarações 
+// SeÃ§Ã£o de DeclaraÃ§Ãµes 
 var
 n1:real
 n2:real
@@ -11,22 +11,22 @@ n4:real
 total:real
 inicio
 // Dados de Entrada
-escreval("digite o primeiro número: ")
+escreval("digite o primeiro nÃºmero: ")
 leia(n1)
 
-escreval("digite o segundo número: ")
+escreval("digite o segundo nÃºmero: ")
 leia(n2)
 
-escreval("digite o terceiro número: ")
+escreval("digite o terceiro nÃºmero: ")
 leia(n3)
 
-escreval("digite o quarto número: ")
+escreval("digite o quarto nÃºmero: ")
 leia(n4)
 
 //Processamento
 total <- (n1*n1)+(n2*n2)+(n3*n3)+(n4*n4)
 
-//Dados de Saída
-escreval("O resultado é: ",total)
+//Dados de SaÃ­da
+escreval("O resultado Ã©: ",total)
 
 fimalgoritmo
