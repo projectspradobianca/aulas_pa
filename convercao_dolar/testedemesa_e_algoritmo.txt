@@ -1,0 +1,12 @@
+Teste De Mesa
+
+valor_reais  cotacão  valor_dolar
+100          5        20
+50           5        10
+
+Algoritmo 
+     Digite o valor da cotção e armazene em "cotacao"
+     Digite a quantia em reais e armazene em "valor_reais"
+     Faça valor_em_dolar= valor_rais/cotacao
+     Mostre valor_em_dolar
+FimAlgoritmo
