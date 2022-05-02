@@ -1,0 +1,14 @@
+Teste De Mesa
+
+n1  n2  n3  n4  total
+2   4   6   8    120            
+
+Algoritmo 
+     Digite um número e armazene em "n1"   
+     Digite um número e armazene em "n2"    
+     Digite um número e armazene em "n3"    
+     Digite um número e armazene em "n4" 
+     Calcule o quadrado de cada variavel e em seguida some
+     Faça (n1*n1)+(n2*n2)+(n3*n3)+(n4*n4) e atribua o resultado para a variavel "total"
+     Mostrar "total"        
+FimAlgoritmo
