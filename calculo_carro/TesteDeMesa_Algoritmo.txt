@@ -1,0 +1,13 @@
+Teste de Mesa
+preco_custo    imposto  transporte   custo_final
+25.000         1.45     1.28                 46.400
+
+
+
+Algoritmo
+     Entre com o preço de custo do carro e armazene em "preco_custo"
+     Faça imposto= preco_custo*1,45
+     Faça transporte= imposto*1,28
+     Faça custo_final= transporte
+     Mostre custo_final
+FimAlgoritmo
