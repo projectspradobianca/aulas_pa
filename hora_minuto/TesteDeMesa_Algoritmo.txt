@@ -1,0 +1,13 @@
+Teste de Mesa
+hora  minuto  hora_minuto
+3     40      3.67
+1     32      1.52
+
+Algoritmo
+     Digite as horas e armazene em "hora"
+     Digite os minutos e armazene em "minuto"
+     Faça hora_minuto= minuto/60
+     Faça horario_total= hora+hora_minuto
+     Mostre horario_total
+FimAlgoritmo
+     
