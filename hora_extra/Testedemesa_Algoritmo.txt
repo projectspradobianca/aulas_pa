@@ -1,0 +1,12 @@
+Teste De Mesa
+Horas  Total
+20    850
+     
+
+Algoritmo 
+     Digite as horas e armazene em hora
+     Digite os minutos e armazene em min
+     Digite o valor ganho e armazene em valor
+     Faça total = ((min/60) + hora) * valor
+     Mostre total
+FimAlgoritmo
