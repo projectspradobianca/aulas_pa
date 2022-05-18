@@ -1,0 +1,11 @@
+Teste de Mesa
+percurso  tempo   total
+150       1h13    123
+
+Algoritmo 
+     Digite o percurso percorrido e armazene em distancia
+     Digite o tempo gasto em horas e armazene em horas
+     Digite o tempo gasto em minutos e armazene em minuto
+     Faça total = percurso / ((min/60) + horas)
+     Mostre o total
+FimAlgoritmo
